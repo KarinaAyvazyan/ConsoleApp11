@@ -30,9 +30,6 @@ namespace ConsoleApp11
 
             }
 
-      /*  mer num-y  gtnvum e 50-ic 70 mijakayqum,ete num-y zuyg e ,apa bajanenq 2-i,kenti jamanak (num*3+1)/2 .Ayd gorcoxutyunnery num-i (stacvac tvi)
-         hamar krknenq aydqan jamanak ,qani der num!=1 .Ayd gorcoxutyunnery hertov aneluc heto ,erb stananq 1 tpenq ayn ...
-       */
         }
 
     }
